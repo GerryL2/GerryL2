@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Gerry!</h1>
-<h3 align="center">A passionate frontend developer from Massachusetts.</h3>
+<h3 align="center">A passionate Frontend Developer from Massachusetts.</h3>
 
 - 🌱 I’m currently learning **React, SQL, JavaScript**
 
